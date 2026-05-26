@@ -1,6 +1,6 @@
 [
   {
-    "name_category": "Category 1",
+    "name_category": "Hot \uD83D\uDD25",
     "data": [
       {
         "name": "Anime Eternal",
@@ -471,7 +471,7 @@
     ]
   },
   {
-    "name_category": "Category 2",
+    "name_category": "Action",
     "data": [
       {
         "name": "Paradox",
@@ -1113,7 +1113,7 @@
     ]
   },
   {
-    "name_category": "Category 3",
+    "name_category": "Adventure",
     "data": [
       {
         "name": "Hitman Card Game",
@@ -1604,7 +1604,7 @@
     ]
   },
   {
-    "name_category": "Category 4",
+    "name_category": "Casual",
     "data": [
       {
         "name": "My Knife Farm",
